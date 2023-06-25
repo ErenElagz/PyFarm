@@ -36,7 +36,13 @@ Whatever, its a basic game and prices coming your change in the this day.
 Try dont to perish your animals and plants.
 I think thats enough. Good Luck <3
 
-## Screenshots
+
+# Screenshots
+#![Screenshot 2023-06-25 122858](https://github.com/ErenElagz/PyFarm/assets/125195062/61f4e1af-892b-4ad0-aacc-65bea44e7e24)
+![Screenshot 2023-06-25 122842](https://github.com/ErenElagz/PyFarm/assets/125195062/172a41da-7748-496a-97aa-5f41745d7f04)
+![Screenshot 2023-06-25 122908](https://github.com/ErenElagz/PyFarm/assets/125195062/7c1667fb-6157-4625-a036-81058ba7f024)
+![Screenshot 2023-06-25 122920](https://github.com/ErenElagz/PyFarm/assets/125195062/7360476f-66dc-496f-baa9-97022fcb6b3e)
+![Screenshot 2023-06-25 123015](https://github.com/ErenElagz/PyFarm/assets/125195062/51bf062d-1379-4e93-a6cb-3ce872651a4d)
 
 
 ## License
